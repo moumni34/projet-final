@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "twilio",
+      "type": "tn.esprit.services.Twilioproperties",
+      "sourceType": "tn.esprit.services.Twilioproperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "twilio.account-sid",
+      "type": "java.lang.String",
+      "sourceType": "tn.esprit.services.Twilioproperties"
+    },
+    {
+      "name": "twilio.auth-token",
+      "type": "java.lang.String",
+      "sourceType": "tn.esprit.services.Twilioproperties"
+    },
+    {
+      "name": "twilio.from-number",
+      "type": "java.lang.String",
+      "sourceType": "tn.esprit.services.Twilioproperties"
+    }
+  ],
+  "hints": []
+}
